@@ -1,0 +1,42 @@
+/* Style for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Style for the main headings */
+h1, h2, h3 {
+    color: #333;
+}
+
+/* Style for contact details */
+h3:first-of-type {
+    margin-top: 20px;
+}
+
+/* Style for skills list */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Style for education and experience entries */
+p {
+    margin: 10px 0;
+}
+
+/* Style for the declaration */
+h3:last-of-type {
+    margin-top: 20px;
+}
+
+/* Style for links */
+a {
+    color: #0077b5;
+    text-decoration: none;
+}
+
+/* Style for addresses */
+p:last-of-type {
+    margin-bottom: 20px;
+}
